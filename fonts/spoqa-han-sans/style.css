@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'Spoqa Han Sans';
+  font-style: normal;
+  font-weight: 100;
+  src: url('subset/SpoqaHanSansNeo-mod-Thin.woff2') format('woff2'),
+       url('subset/SpoqaHanSansNeo-mod-Thin.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Spoqa Han Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: url('subset/SpoqaHanSansNeo-mod-Light.woff2') format('woff2'),
+       url('subset/SpoqaHanSansNeo-mod-Light.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Spoqa Han Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('subset/SpoqaHanSansNeo-mod-Regular.woff2') format('woff2'),
+       url('subset/SpoqaHanSansNeo-mod-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Spoqa Han Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: url('subset/SpoqaHanSansNeo-mod-Medium.woff2') format('woff2'),
+       url('subset/SpoqaHanSansNeo-mod-Medium.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Spoqa Han Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('subset/SpoqaHanSansNeo-mod-Bold.woff2') format('woff2'),
+       url('subset/SpoqaHanSansNeo-mod-Bold.woff') format('woff');
+}
